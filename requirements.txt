@@ -1,0 +1,10 @@
+streamlit
+yfinance
+numpy
+pandas
+scipy
+plotly
+matplotlib
+nltk
+wordcloud
+alpha_vantage
